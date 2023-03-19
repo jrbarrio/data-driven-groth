@@ -11,6 +11,7 @@ numpy = "*"
 seaborn = "*"
 plotly = "*"
 chart-studio = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
