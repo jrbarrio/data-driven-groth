@@ -12,6 +12,7 @@ seaborn = "*"
 plotly = "*"
 chart-studio = "*"
 scikit-learn = "*"
+xgboost = "*"
 
 [dev-packages]
 
