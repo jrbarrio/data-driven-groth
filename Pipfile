@@ -13,6 +13,7 @@ plotly = "*"
 chart-studio = "*"
 scikit-learn = "*"
 xgboost = "*"
+statsmodels = "*"
 
 [dev-packages]
 
