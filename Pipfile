@@ -14,6 +14,8 @@ chart-studio = "*"
 scikit-learn = "*"
 xgboost = "*"
 statsmodels = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
